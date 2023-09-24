@@ -1,13 +1,12 @@
-# Alloy Proxy
-A web proxy for use in combating web filters.
+# Alloy Light
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zkayns/alloylight/tree/master)
 
 ## Running locally
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/alloyproxy.git
-cd alloyproxy
+git clone https://github.com/zkayns/alloylight.git
+cd alloylight
 node server.js
 ```
 
